@@ -53,7 +53,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 :arrow_right: `On p_five_develop branch, create a folder and name it src.`
 
-:arrow_right: `You will create a new folder for each task in the src folder and give the folder the name of the shape(s) you are creating.`
+:arrow_right: `You will create a new sub folder for each task inside the src folder and give each sub-folder the name of the shape(s) you are creating for each task and make sure that you are still on the p_five_develop branch.`
 
 :arrow_right: `Insdie each task folder you will create 3 files, index.js index.css and index.js`
 
