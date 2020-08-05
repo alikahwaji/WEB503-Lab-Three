@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to lab 1 👋</h1>
+<h1 align="center">Welcome to lab 3 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -47,23 +47,32 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Lab 1 Description
+## :page_facing_up: Lab 3 Description
 
-:arrow_right: `Write a 500 words introduction about GitHub Inc. company, what was the motivation behind starting a version control system? And what are the latest
-features in GitHub?`
+:arrow_right: `Create a new branch and name it p_five_develop.`
 
-:arrow_right: `What is Git? list at least 10 Git commands and explain each one of them.` 
+:arrow_right: `On p_five_develop branch, create a folder and name it src.`
 
-:arrow_right: `Create for each Git command you expalin a diagram that visulaize it's functionality`
+:arrow_right: `You will create a new folder for each task in the src folder and give the folder the name of the shape(s) you are creating.`
 
-:arrow_right: `You must use NMIT APA 7th ed. Referencing Guide`
+:arrow_right: `Insdie each task folder you will create 3 files, index.js index.css and index.js`
+
+:arrow_right: `On p_five_develop branch, write a code to draw a quad, rotate the shape 35 degree and give the shape a background color of blue with no stroke ` 
+
+:arrow_right: `On p_five_branch_develop, write a code to draw a rectangle with rounded corners with no background color, stroke color of red and make the stroke weight 6`
+
+:arrow_right: `On p_five_branch_develop, use the p5.js reference to draw two 3D shapes, 1st shape is a cylinder and the 2nd is a ellipsoid. Give values for each shape parameters`
+
+:arrow_right: `On the master branch, write your journal entry using the journal.md file`
+
+:arrow_right: `You must use NMIT APA 7th ed. Referencing`
 
 
 
 ## :books: Resources 
 
-|[Git](https://git-scm.com/docs)|[GitHub docs](https://guides.github.com/)|[GitHub Markdown](https://github.github.com/gfm/)|[APA7](https://ecampus.nmit.ac.nz/moodle/pluginfile.php/1568015/mod_label/intro/2020%20NMIT%20APA%20Referencing%207th%20edition%20guide.pdf?time=1587511859519)|
-|---|---|---|---|
+|[Git](https://git-scm.com/docs)|[GitHub docs](https://guides.github.com/)|[GitHub Markdown](https://github.github.com/gfm/)|[APA7](https://ecampus.nmit.ac.nz/moodle/pluginfile.php/1568015/mod_label/intro/2020%20NMIT%20APA%20Referencing%207th%20edition%20guide.pdf?time=1587511859519)|[p5 reference](https://p5js.org/reference/)|
+|---|---|---|---|---|
 
 ## :loudspeaker: IMPORTANT NOTE
 ```diff
